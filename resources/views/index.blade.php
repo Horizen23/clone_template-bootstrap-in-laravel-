@@ -15,7 +15,6 @@
 <meta name="author" content="">	
 <!-- bootstrap css -->
 <!-- style css -->
-<link href="css/app.css" rel="stylesheet" type="text/css" >
 <link rel="stylesheet" type="text/css" href="css/style.css">
 <!-- Responsive-->
 <link rel="stylesheet" href="css/responsive.css">
@@ -60,7 +59,7 @@
                 </li>
             </ul>
         </div>
-         <div class="login_text"><a href="login.html">LOGIN HERE</a></div>
+         <div class="login_text"><a href="login">LOGIN HERE</a></div>
     </nav>
 	<!-- header section start-->
 	<!-- banner section start-->
